@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Oleg, a beginner full-time Backend developer 👨‍💻 Specializing in Python, Django, and Django Rest Framework🚀</div>  
+### <div align="center">Hi, I'm Oleg, a beginner full-time Backend developer 👨‍💻</div>  
+### <div align="center">Specializing in Python, Django, and Django Rest Framework🚀💻</div>  
   
 
 - 🔭 I'm currently working on two exciting projects simultaneously, including [CodeSphere](https://github.com/okuzmenko31/Code-Sphere), [DRF-iShop](https://github.com/okuzmenko31/drf-ecommerce)  
@@ -19,7 +20,7 @@
 
 
 ## Skills
-<table><tr><td valign="top" width="33%">
+
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -28,21 +29,21 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 <div align="center">  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+
 
 <br/>  
 
