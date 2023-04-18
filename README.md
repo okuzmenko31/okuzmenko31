@@ -39,7 +39,7 @@
 
 ### Tools
 <div align="center">
-  <a href="" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/python-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png?20200803065702)" alt="Pycharm" height="50" /></a>  
+  <a href="" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm" height="50" /></a>  
 </div>
 
 
