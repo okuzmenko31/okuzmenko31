@@ -1,20 +1,19 @@
 <h1>Hello there 👋</h1>
 
-<h3>🤖 Speciality</h3>
+<h2>🤖 Speciality</h2>
 
 **Backend Developer**
-<hr>
 
-<h3>🧰 Skills</h3>
+
+<h2>🧰 Skills</h2>
 <div style="display: flex;">
 
 **Python**, **Django**, **Django Rest Framework**, **PostgreSQL**, **Docker**, **FastAPI**, **SQLAclhemy**, **Git**, **AWS**, **HTML/CSS**, **Bootstrap**
 
   
 </div>
-<hr>
 
-<h3>📊 GitHub Stats</h3> 
+<h2>📊 GitHub Stats</h> 
 
 
 ![okuzmenko31's Stats](https://github-readme-stats.vercel.app/api?username=okuzmenko31&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
