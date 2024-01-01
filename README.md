@@ -7,7 +7,7 @@
 * 😇 Working on my self-improvement and discipline
 * 👀 Looking for interesting ideas for projects 💼
 
-### Contacts
-* Telegram : https://t.me/okuzmenko31
+### Contact
+* Telegram: https://t.me/okuzmenko31
 * Linkedin: https://www.linkedin.com/in/okuzmenko31/
 * Instagram: https://www.instagram.com/okuzmenko31/
